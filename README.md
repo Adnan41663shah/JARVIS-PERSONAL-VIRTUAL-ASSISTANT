@@ -71,7 +71,5 @@ Jarvis is a Python-based voice assistant that performs tasks like Wikipedia sear
 - If `pyttsx3` is not working properly, check the voice engine and ensure `sapi5` is available on your system.
 - For WhatsApp functionality, ensure your WhatsApp Web is linked to your browser.
 
-## License
 
-This project is licensed under the MIT License.
 
